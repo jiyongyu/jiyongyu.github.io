@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>UIUC</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>UIUC</a>. What. The. Fuck. Etc.
 
 profile:
   align: right
