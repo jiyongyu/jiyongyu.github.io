@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a final-year Computer Science Ph.D student at [University of Illinois at Urbana-Champaign](https://illinois.edu), advised by [Prof. Chris Fletcher](https://cwfltcher.net). My research interest lies in the intersection between computer architecture and computer security, mostly about micro-architectural side-channel attacks and defenses. My work spans across building comprehensive and efficient side-channel defenses, developping new side-channel attacks on latest processors to designing trusted computing solutions.
+I am a final-year Computer Science Ph.D student at [University of Illinois at Urbana-Champaign](https://illinois.edu), advised by [Prof. Chris Fletcher](https://cwfltcher.net). My research interest lies in the intersection between computer architecture and computer security, mostly about micro-architectural side-channel attacks and defenses. My work spans across building comprehensive and efficient side-channel defenses, developing new side-channel attacks on latest processors to designing trusted computing solutions.
 
 Before joining UIUC in 2017, I graduated from both University of Michigan and Shanghai Jiao Tong University with a Bachelor of Science degree in Computer Engineering (dual degree). 
 
